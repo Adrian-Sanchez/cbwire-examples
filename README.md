@@ -28,7 +28,7 @@ Here you will find numerous CBWIRE examples that you can learn from and use in y
 
 ## Getting Started
 
-* Clone this repo `git clone git@github.com:grantcopley/cbwire-examples.git`
+* Clone this repo `https://github.com/grantcopley/cbwire-examples.git`
 * Use CommandBox to install dependencies `box install`
 * Start your CFML server `box server start --open`
 
